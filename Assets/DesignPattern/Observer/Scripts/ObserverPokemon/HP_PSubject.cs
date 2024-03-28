@@ -6,8 +6,13 @@ public class HP_PSubject : MonoBehaviour, PSubject
 {
     private List<PObserver> m_PObservers = new List<PObserver>();
 
-    public float m_HP;
-    public float enemy_HP;
+    public float m_HP = 100;
+    public float enemy_HP = 100;
+
+    void Awake()
+    {
+        SetHP(m_HP, enemy_HP);
+    }
 
     public void SetHP(float M_HP, float E_HP)
     {
