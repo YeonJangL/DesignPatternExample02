@@ -1,5 +1,7 @@
 ### 옵저버 연결 과제
 
+노션 7주차 3/28일 메모 참고
+
 ![제일 쉽게 연결할 수 있는 방법
 서브젝트 안에 옵저버를 넣어서 하심..?](https://prod-files-secure.s3.us-west-2.amazonaws.com/9c10381a-5db9-4ede-aaf7-2250d29832b5/ba8dd03c-06c1-4004-b95f-c1326549fb06/Untitled.png)
 
